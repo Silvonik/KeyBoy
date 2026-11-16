@@ -147,7 +147,3 @@ void endGame(){
 
   delay(700);
 }
-
-
-
-

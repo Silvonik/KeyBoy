@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 1.27
+          "drill": 1.5,
+          "height": 1.1,
+          "width": 2.5
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -524,7 +524,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../PRODUCTION/gerber/",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
@@ -658,13 +658,18 @@
       {
         "filename": "Keyboy.kicad_sch",
         "name": "Keyboy",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "ab5f8741-89eb-43c4-86b4-db3a2b1beb00"
       }
     ],
-    "used_designators": "",
+    "used_designators": "U1,SW1-5,#PWR1-6,J1-2",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "ab5f8741-89eb-43c4-86b4-db3a2b1beb00",
+      "Keyboy"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
